@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework1\Zadacha4\bin\Debug\Zadacha4.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework1\Zadacha4\bin\Debug\Zadacha4.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework1\Zadacha4\bin\Debug\Zadacha4.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework1\Zadacha4\obj\Debug\Zadacha4.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework1\Zadacha4\obj\Debug\Zadacha4.pdb
