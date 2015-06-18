@@ -1,0 +1,9 @@
+c:\users\vlado\documents\visual studio 2013\Projects\Homework2\Homework2\bin\Debug\Homework2.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2013\Projects\Homework2\Homework2\bin\Debug\Homework2.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Homework2\Homework2\bin\Debug\Homework2.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.exe
+c:\users\vlado\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\Homework2\obj\Debug\Homework2.pdb

@@ -10,7 +10,7 @@ namespace Zadacha5
     {
         static void Main(string[] args)
         {
-            string a = "I' am";
+            string a = "I am";
             string b = "Vladislav Ivanov";
 
             string result = (a + " " + b);

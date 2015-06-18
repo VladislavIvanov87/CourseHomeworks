@@ -1,0 +1,12 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework2\zadacha3\bin\Debug\zadacha3.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework2\zadacha3\bin\Debug\zadacha3.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework2\zadacha3\bin\Debug\zadacha3.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework2\zadacha3\obj\Debug\zadacha3.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework2\zadacha3\obj\Debug\zadacha3.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\Homework2\zadacha3\obj\Debug\zadacha3.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\zadacha3\bin\Debug\zadacha3.exe.config
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\zadacha3\obj\Debug\zadacha3.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\zadacha3\obj\Debug\zadacha3.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\zadacha3\bin\Debug\zadacha3.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\zadacha3\bin\Debug\zadacha3.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\Homework2\zadacha3\obj\Debug\zadacha3.csprojResolveAssemblyReference.cache

@@ -15,7 +15,7 @@ namespace Zadacha1
 
             int result = a + b;
 
-            Console.ReadLine();
+            Console.ReadLine(); 
             Console.WriteLine(result);
         }
     }
