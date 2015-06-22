@@ -1,0 +1,5 @@
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkLoops\HomeworkLoops\bin\Debug\HomeworkLoops.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\HomeworkLoops\bin\Debug\HomeworkLoops.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\HomeworkLoops\bin\Debug\HomeworkLoops.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.pdb

@@ -1,0 +1,5 @@
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkLoops\Task5\bin\Debug\Task5.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\Task5\bin\Debug\Task5.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\Task5\bin\Debug\Task5.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\Task5\obj\Debug\Task5.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkLoops\Task5\obj\Debug\Task5.pdb
