@@ -1,0 +1,9 @@
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays\Task 4\bin\Debug\Task 4.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays\Task 4\bin\Debug\Task 4.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays\Task 4\bin\Debug\Task 4.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays\Task 4\obj\Debug\Task 4.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays\Task 4\obj\Debug\Task 4.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays\Task 4\obj\Debug\Task 4.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays\Task 4\bin\Debug\Task 4.exe.config
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays\Task 4\obj\Debug\Task 4.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays\Task 4\obj\Debug\Task 4.pdb
