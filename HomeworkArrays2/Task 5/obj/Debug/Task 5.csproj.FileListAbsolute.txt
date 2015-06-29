@@ -1,0 +1,12 @@
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\Task 5\bin\Debug\Task 5.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\Task 5\bin\Debug\Task 5.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\Task 5\bin\Debug\Task 5.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\Task 5\obj\Debug\Task 5.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\Task 5\obj\Debug\Task 5.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkArrays2\Task 5\obj\Debug\Task 5.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\Task 5\bin\Debug\Task 5.exe.config
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\Task 5\obj\Debug\Task 5.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\Task 5\obj\Debug\Task 5.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\Task 5\bin\Debug\Task 5.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\Task 5\bin\Debug\Task 5.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\Task 5\obj\Debug\Task 5.csprojResolveAssemblyReference.cache

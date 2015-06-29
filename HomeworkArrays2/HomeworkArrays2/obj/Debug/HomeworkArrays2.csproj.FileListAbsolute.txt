@@ -1,0 +1,8 @@
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\HomeworkArrays2\bin\Debug\HomeworkArrays2.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\HomeworkArrays2\bin\Debug\HomeworkArrays2.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\HomeworkArrays2\bin\Debug\HomeworkArrays2.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\HomeworkArrays2\obj\Debug\HomeworkArrays2.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkArrays2\HomeworkArrays2\obj\Debug\HomeworkArrays2.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\HomeworkArrays2\bin\Debug\HomeworkArrays2.exe.config
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\HomeworkArrays2\obj\Debug\HomeworkArrays2.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkArrays2\HomeworkArrays2\obj\Debug\HomeworkArrays2.pdb

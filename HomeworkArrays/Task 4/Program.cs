@@ -10,6 +10,24 @@ namespace Task_4
     {
         static void Main(string[] args)
         {
+
+            int[] array = new int[] { 2, 8, 11, 16, 8, 32 };
+            int n = int.Parse(Console.ReadLine());
+           
+
+                for (int i = 0; i < array.Length; i++)
+			{
+
+                    if (array[i] == n)
+                    Console.WriteLine("The index is on position: {0}", i);
+                    break;
+	{
+		 
+	}
+    
+			 
+			}
+
             Console.WriteLine("Enter a number for N:");
             int N = int.Parse(Console.ReadLine());
 
