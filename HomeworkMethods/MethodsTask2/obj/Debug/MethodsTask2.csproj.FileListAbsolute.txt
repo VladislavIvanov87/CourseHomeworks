@@ -1,0 +1,6 @@
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask2\bin\Debug\MethodsTask2.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask2\bin\Debug\MethodsTask2.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask2\bin\Debug\MethodsTask2.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask2\obj\Debug\MethodsTask2.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask2\obj\Debug\MethodsTask2.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\Projects\HomeworkMethods\MethodsTask2\obj\Debug\MethodsTask2.csprojResolveAssemblyReference.cache

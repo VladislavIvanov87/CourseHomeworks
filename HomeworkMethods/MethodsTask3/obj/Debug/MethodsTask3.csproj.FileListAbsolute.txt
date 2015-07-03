@@ -1,0 +1,5 @@
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask3\bin\Debug\MethodsTask3.exe.config
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask3\bin\Debug\MethodsTask3.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask3\bin\Debug\MethodsTask3.pdb
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask3\obj\Debug\MethodsTask3.exe
+c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\MethodsTask3\obj\Debug\MethodsTask3.pdb
