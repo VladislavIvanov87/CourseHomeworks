@@ -4,3 +4,6 @@ c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\HomeworkMet
 c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\HomeworkMethods\obj\Debug\HomeworkMethods.csprojResolveAssemblyReference.cache
 c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\HomeworkMethods\obj\Debug\HomeworkMethods.exe
 c:\users\vlado\documents\visual studio 2013\Projects\HomeworkMethods\HomeworkMethods\obj\Debug\HomeworkMethods.pdb
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkMethods\HomeworkMethods\bin\Debug\HomeworkMethods.exe.config
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkMethods\HomeworkMethods\obj\Debug\HomeworkMethods.exe
+C:\Users\Vlado\Desktop\SI\CourseHomeworks\HomeworkMethods\HomeworkMethods\obj\Debug\HomeworkMethods.pdb
